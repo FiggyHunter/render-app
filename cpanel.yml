@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/skimba/listify.skim.ba/
+    - export DEPLOYPATH=/home/skimba/listifyapi.skim.ba/
     - /bin/cp -R * $DEPLOYPATH
