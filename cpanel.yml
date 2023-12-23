@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/skimba/listify.skim.ba/
+    - /bin/cp -R * $DEPLOYPATH
